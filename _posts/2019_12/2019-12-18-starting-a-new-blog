@@ -1,0 +1,17 @@
+---
+title: "Get to start a new blog!"
+date: 2019-12-18 21:18:28
+categories: study-log
+---
+
+Succeed to create a super basic github blog!
+
+It has been a few days 'casue I didn't know that I have to use the same user name as mine.
+Mine is "yeseung-jin" but I was using "yyssjjiinn" infront of ".github.io".
+
+So what I got today is:
+  1. the repository name should be the same as my user name.
+  2. the url in _config.yml should be [username].git.io as well.
+
+Tomorrow's goal is set sub-directories in here.
+So it's done for today. 
